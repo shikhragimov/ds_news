@@ -1,0 +1,15 @@
+---
+version: "3.8"
+
+services:
+    app:
+        build:
+            context: .
+        ports:
+            - 8002:8888
+        tty: true
+        restart: on-failure
+        hostname: ds_news_container
+        container_name: ds_news_container
+        volumes:
+            - ./:/app

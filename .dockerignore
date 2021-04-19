@@ -1,0 +1,12 @@
+__pycache__
+.pytest_cache
+.ipynb_checkpoints
+.git
+.data
+.models
+
+*.log
+*.pyc
+
+local*.py
+temp
