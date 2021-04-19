@@ -28,3 +28,6 @@ Here could be a news ("news" folder) or themes ("themes" folder). Also there are
 # Technologies
 * python3.*
 * tensroflow2.*
+
+# Links
+posts on Telegra.ph - https://telegra.ph/DS-Astro-04-19
